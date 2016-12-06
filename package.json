@@ -1,24 +1,24 @@
 {
-  "name": "picker-xc",
+  "name": "xc-modal",
   "version": "1.0.0",
-  "description": "this is a picker has selector time date",
-  "main": "index.js",
+  "description": "this is a modal component",
+  "main": "main.js",
   "scripts": {
     "start": "webpack-dev-server --line --hot --progress"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/XcXerxes/picker-xc.git"
+    "url": "git+https://github.com/XcXerxes/xc-modal.git"
   },
   "keywords": [
-    "picker"
+    "modal"
   ],
   "author": "xcxerxes",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/XcXerxes/picker-xc/issues"
+    "url": "https://github.com/XcXerxes/xc-modal/issues"
   },
-  "homepage": "https://github.com/XcXerxes/picker-xc#readme",
+  "homepage": "https://github.com/XcXerxes/xc-modal#readme",
   "dependencies": {
     "react": "^15.4.1",
     "react-dom": "^15.4.1"
